@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.3854000a.css",
+    "main.js": "/react-app/static/js/main.fcd65a76.js",
+    "static/js/787.545aecf5.chunk.js": "/react-app/static/js/787.545aecf5.chunk.js",
+    "static/media/Holberton.jpg": "/react-app/static/media/Holberton.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/react-app/index.html",
+    "main.3854000a.css.map": "/react-app/static/css/main.3854000a.css.map",
+    "main.fcd65a76.js.map": "/react-app/static/js/main.fcd65a76.js.map",
+    "787.545aecf5.chunk.js.map": "/react-app/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3854000a.css",
+    "static/js/main.fcd65a76.js"
+  ]
+}
